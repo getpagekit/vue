@@ -1,4 +1,6 @@
 /*!
+ * Vue.js v1.0.28 是一个旧项目，用于GetPagekit 开发的过度
+ *
  * Vue.js v1.0.28
  * (c) 2016 Evan You
  * Released under the MIT License.
